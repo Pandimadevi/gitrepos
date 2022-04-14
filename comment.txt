@@ -1,0 +1,10 @@
+CustomFunction.PerformCommentAction("nextvisit " + nextvisOID + DateTime.Now, Dpt_action, true);
+CustomFunction.PerformCommentAction("nextvisit " + nextvisOID + DateTime.Now, Dpt_action, true);
+
+CustomFunction.PerformCommentAction("nextvisOID_final " + nextvisOID_final + DateTime.Now, Dpt_action, true);
+
+CustomFunction.PerformCommentAction("nextvisOID_06 " + nextvisOID + DateTime.Now, Dpt_action, true);
+CustomFunction.PerformCommentAction("nextvisOID_06grp " + Dpt_GROUP.Data + DateTime.Now, Dpt_action, true);
+
+
+'Start Date' is not within the 'Date of Visit'(Visit date Form) of 'Appeared after visit' and 'Date of Visit' (Visit date CRF) of next visit of 'Appeared after visit'. Please update the CRF as appropriate.
